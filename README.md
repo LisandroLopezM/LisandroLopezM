@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lisandro Lopez
 
-<!--
-**LisandroLopezM/LisandroLopezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hola buenos dias mi nobre es Lisandro Lopez soy un estudiante del colegio C.E.S.D (Centro Educativo santo Domingo) siendo la especialidad del colegio la informatica.
 
-Here are some ideas to get you started:
+En el colegio emos estado estudiando Html - Css - JavaScript - Python - PHP - SQL - Arduino. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sinseramente me gusta estudiar y aprender mas cosas sobre python.
+
+- 👔 Ahora estamos probando la App de npx usando node.js y viendo apis.
+
+- 👓 Me gusta entrenas y pasar tiempo con amigos.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisandrolopezm&show_icons=true&theme=synthwave)
